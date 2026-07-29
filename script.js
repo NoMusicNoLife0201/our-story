@@ -34,6 +34,8 @@ function checkPassword() {
         error.innerText =
             "keywordが違うって、もしかして勘で当てようとしてる？";
 
+        error.style.color = "red";
+
     }
 
 }
