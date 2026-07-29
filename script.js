@@ -32,7 +32,7 @@ function checkPassword() {
     } else {
 
         error.innerText =
-            "keywordが違うってー"<br>"もう一度、確認してね";
+            "keywordが違うって、もしかして勘で当てようとしてる？";
 
     }
 
